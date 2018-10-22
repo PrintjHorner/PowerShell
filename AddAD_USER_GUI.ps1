@@ -1,4 +1,6 @@
-﻿Add-Type -AssemblyName System.Windows.Forms
+#GUI for adding AD Users
+
+Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
 
 
