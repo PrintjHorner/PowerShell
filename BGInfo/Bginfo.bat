@@ -1,0 +1,1 @@
+\\Server1\scripts\BGinfo\bginfo.exe \\Server1\scripts\BGinfo\BGInfo.bgi  /TIMER:0 /NOCICPROMPT /SILENT /accepteula
